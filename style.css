@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: 'Merienda', cursive;
+    background-color: #5B1212;
+    text-align: center;
+}
+h1{
+    text-align: left;
+    font-size: 2.5em;
+    margin: 0;
+    padding: 1em;
+    background-color: #771818;
+}
+img{
+    margin: 5%;
+    width: 80%;
+    border-radius: 2em;
+}
+div{
+    font-size: 2.5em;
+    padding: 10%;
+    background-color: #C4952B;
+}
+footer{
+    font-size: 1.5em;
+    display: grid;
+    grid-auto-flow: column;
+    padding-bottom: 1em;
+}
+footer p{
+    margin: 1em;
+    text-align: left;
+}
+footer a{
+    margin: 1em;
+    text-align: right;
+    color: #C4952B;
+}
